@@ -1,0 +1,20 @@
+.block_a{
+margin-top:60px;
+}
+.block_a:hover{
+transition: 0.5s;
+transform: scale(1.08) ;
+padding:20px;
+
+}
+
+.r{
+position:absolute;
+padding-left: 500px;
+padding-top: 120px;
+}
+.s{
+position:absolute;
+padding-left: 538px;
+padding-top: 150px;
+}
